@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "14218129-283C-4E36-BDC6-0FDD7083B99B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4C7EA47-3531-4C55-85C2-01F9C4A02EF6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarioParty/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "D4C7EA47-3531-4C55-85C2-01F9C4A02EF6 - 834c96e866e66310"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarioParty.AppDelegate.__deallocating_deinit"
+                  moduleName = "MarioParty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-hw-5/MarioParty/MarioParty/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "D4C7EA47-3531-4C55-85C2-01F9C4A02EF6 - 97aaae615ac6980c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarioParty.AppDelegate.__allocating_init() -&gt; MarioParty.AppDelegate"
+                  moduleName = "MarioParty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-hw-5/MarioParty/MarioParty/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "D4C7EA47-3531-4C55-85C2-01F9C4A02EF6 - f51e298af8a9a2a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarioParty.AppDelegate.init() -&gt; MarioParty.AppDelegate"
+                  moduleName = "MarioParty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-hw-5/MarioParty/MarioParty/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "D4C7EA47-3531-4C55-85C2-01F9C4A02EF6 - b04ae53df5424e64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "MarioParty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-hw-5/MarioParty/MarioParty/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

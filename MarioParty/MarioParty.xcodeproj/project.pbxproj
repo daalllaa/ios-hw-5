@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9425619324AF812A0023216F /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9425619224AF812A0023216F /* Player.swift */; };
+		9425619624AFAB710023216F /* PlayerDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9425619524AFAB710023216F /* PlayerDetailsVC.swift */; };
 		9449EE4224299E69006D3BD4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9449EE4124299E69006D3BD4 /* AppDelegate.swift */; };
 		9449EE4424299E69006D3BD4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9449EE4324299E69006D3BD4 /* SceneDelegate.swift */; };
 		9449EE4624299E69006D3BD4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9449EE4524299E69006D3BD4 /* ViewController.swift */; };
@@ -26,6 +28,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9425619224AF812A0023216F /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
+		9425619524AFAB710023216F /* PlayerDetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerDetailsVC.swift; sourceTree = "<group>"; };
 		9449EE3E24299E69006D3BD4 /* MarioParty.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MarioParty.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9449EE4124299E69006D3BD4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9449EE4324299E69006D3BD4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +61,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9425619124AF80BD0023216F /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				9425619224AF812A0023216F /* Player.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		9425619424AFAAFA0023216F /* viewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				9425619524AFAB710023216F /* PlayerDetailsVC.swift */,
+			);
+			path = viewControllers;
+			sourceTree = "<group>";
+		};
 		9449EE3524299E68006D3BD4 = {
 			isa = PBXGroup;
 			children = (
@@ -76,6 +96,8 @@
 		9449EE4024299E69006D3BD4 /* MarioParty */ = {
 			isa = PBXGroup;
 			children = (
+				9425619424AFAAFA0023216F /* viewControllers */,
+				9425619124AF80BD0023216F /* Models */,
 				9449EE4124299E69006D3BD4 /* AppDelegate.swift */,
 				9449EE4324299E69006D3BD4 /* SceneDelegate.swift */,
 				9449EE4524299E69006D3BD4 /* ViewController.swift */,
@@ -202,9 +224,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9425619324AF812A0023216F /* Player.swift in Sources */,
 				9449EE4624299E69006D3BD4 /* ViewController.swift in Sources */,
 				9449EE4224299E69006D3BD4 /* AppDelegate.swift in Sources */,
 				9449EE4424299E69006D3BD4 /* SceneDelegate.swift in Sources */,
+				9425619624AFAB710023216F /* PlayerDetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
